@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm **Raj Pratap**<br><br>🎓 First-year CSE student at SRM Institute of Science and Technology (KTR). <br>📫 Connect with me:<br>- LinkedIn: https://www.linkedin.com/in/rajpratap01/<br>- LeetCode: https://leetcode.com/u/RajPratap_cs/
+Hi, I'm **Raj Pratap**<br><br>🎓 First-year CSE student at SRM Institute of Science and Technology (KTR) <br>📫 Connect with me:<br>- LinkedIn: https://www.linkedin.com/in/rajpratap01/<br>- LeetCode: https://leetcode.com/u/RajPratap_cs/
 
 
 ## 🌐 Socials:
